@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: blue;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,7 +8,7 @@ body {
 
 
 h1{
-    font-size: 20;
+    font-size: 48px;
     font-weight:bold;
     color:green;
     font-family: 'Times New Roman', Times, serif;
